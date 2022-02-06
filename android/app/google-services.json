@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "538911898517",
+    "project_id": "beebagstest",
+    "storage_bucket": "beebagstest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538911898517:android:e7d9bc78934fab6e6a149c",
+        "android_client_info": {
+          "package_name": "com.gksolutions.test.beebags"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538911898517-0pspbsmmopck9vfuroatpq0pncrr638e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJM9RwePOlDdjcDNo3lsaZOK4blyQWQrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538911898517-0pspbsmmopck9vfuroatpq0pncrr638e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
