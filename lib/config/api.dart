@@ -2,7 +2,7 @@
 // final String _path = "https://www.abg-studio.com/markets/";
 // final String _path = "https://www.abg-studio.com/market_admin/";
 // final String _path = "https://www.abg-studio.com/vmarkets_admin/";
-final String _path = "http://10.0.2.2/vmarkets_admin/";
+final String _path = "http://gogetgrocery.de/test/";
 // final String _path = "http://10.0.2.2/market_admin/";
 // final String _path = "http://10.0.2.2/restaurants/";
 

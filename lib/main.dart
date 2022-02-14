@@ -104,7 +104,7 @@ class AppFoodDelivery  extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
 
-   _initializeFlutterFire();
+    _initializeFlutterFire();
     // FirebaseCrashlytics.instance.log("Higgs-Boson detected! Bailing out");
 
     var _theme = ThemeData(
@@ -112,7 +112,7 @@ class AppFoodDelivery  extends StatelessWidget {
       primarySwatch: theme.primarySwatch,
       accentColor: theme.colorPrimary,
       textTheme: TextTheme(
-          button: TextStyle(color: Colors.black),
+        button: TextStyle(color: Colors.black),
       ),
     );
 
